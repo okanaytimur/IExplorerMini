@@ -1,0 +1,10 @@
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe.config
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\bin\Release\WebBrowser.pdb
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.Form1.resources
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.Properties.Resources.resources
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.csproj.GenerateResource.cache
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.exe
+C:\Users\Bilgi\source\repos\WebBrowser\WebBrowser\obj\Release\WebBrowser.pdb
