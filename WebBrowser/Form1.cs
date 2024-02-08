@@ -24,7 +24,7 @@ namespace WebBrowser
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("192.168.1.251");
+            webBrowser1.Navigate("https://www.google.com");
             
         }
 
